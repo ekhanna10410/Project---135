@@ -1,0 +1,22 @@
+body
+{
+    background-size: cover;
+}
+.heading
+{
+    width: 100%;
+    font-size: 18px;
+}
+span
+{
+    color: black;
+    font-size: 14px;
+}   
+label
+{
+  color: black;
+}
+input
+{
+    width: min-content;
+}
